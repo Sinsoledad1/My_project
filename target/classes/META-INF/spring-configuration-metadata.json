@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "image.config",
+      "type": "org.echoiot.util.ImageUploadUtil",
+      "sourceType": "org.echoiot.util.ImageUploadUtil"
+    }
+  ],
+  "properties": [
+    {
+      "name": "image.config.path",
+      "type": "java.lang.String",
+      "sourceType": "org.echoiot.util.ImageUploadUtil"
+    },
+    {
+      "name": "image.config.type",
+      "type": "java.util.List<java.lang.String>",
+      "sourceType": "org.echoiot.util.ImageUploadUtil"
+    }
+  ],
+  "hints": []
+}
